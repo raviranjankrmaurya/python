@@ -6,6 +6,7 @@ class Arithmatic{
     System.out.print("Enter Your age:");
     int age = sc.nextInt();
     System.out.println("Your age is :" + age);
+    
 
     
 
